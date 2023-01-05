@@ -5,119 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C01_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C02_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C03_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C04_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C05_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C06_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C07_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C08_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C09_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C10_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C11_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C12_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C13_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C14_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C15_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders02_VariableScanner/C16_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C01_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C02_ExplichtNarrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C03_DataCastingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C04_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C05_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C06_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C07_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C08_WrapperClases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C09_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C10_RakamlarToplami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C11_RakamlarToplami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C12_RakamlarToplami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C13_RakamlarFarki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C14_RakamlarCarpimi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C15_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders03_DataCasting_WrapperClasses/C16_RakamlarToplami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C01_Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C02_PreIncrementPostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C03_PreIncrementPostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C04_PreIncrementPostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C05_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C06_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C07_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders04_IncrementDecrement_Concatenation/C08_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C01_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C02_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C03_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C04_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C05_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C06_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C07_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders05_IfStatements/C08_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C01_IfElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C02_IfElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C03_IfElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C04_IfElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C05_IfElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C07_IfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C08_IfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C09_IfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C10_IfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C11_NestedIfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C12_NestedIfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C13_NestedIfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C14_NestedIfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C15_NestedIfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C16_IfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders06_IfElseStatements/C17_IfElseIfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C01_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C02_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C03_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C04_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C05_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C06_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C07_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C08_NestedTernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C09_NestedTernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C10_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C11_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C12_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C13_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C14_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders07_TernaryOperator_SwitchStatements/C15_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders08_StringManipulations/C01_StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders08_StringManipulations/C02_toUpperCaseLocale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders08_StringManipulations/C03_equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders08_StringManipulations/C04_equalsIgnoreCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders08_StringManipulations/C05_charAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders08_StringManipulations/C06_lenght.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders08_StringManipulations/C08_substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C01_concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C02_contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C03_startWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C04_endWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C05_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C06_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C07_IlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C08_lastIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders09_StringManipulations2/C09_indexOf_lastIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C01_NullPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C02_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C03_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C04_replaceAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C05_replaceFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C06_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C07_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C08_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C09_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C10_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C11_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C12_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C13_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C14_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders10_StringManipulations3/C15_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders11_ForLoop/C01_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders11_ForLoop/C02_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders11_ForLoop/C03_AsalSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C01_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C02_MethodOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C03_MethodOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C04_AsalSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C05_Faktoryel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C06_HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C07_YapilanMethodKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C08_TerseCevirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C09_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C10_FibonacciSerisi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,13 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C03_IfStatements">
-    <configuration name="C03_DataCastingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders03_DataCasting_WrapperClasses.C03_DataCastingChar" />
+  <component name="RunManager" selected="Application.C10_FibonacciSerisi">
+    <configuration name="C06_HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C06_HesapMakinesi" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders03_DataCasting_WrapperClasses.*" />
+          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders05_IfStatements.C03_IfStatements" />
+    <configuration name="C07_YapilanMethodKullanimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C07_YapilanMethodKullanimi" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders05_IfStatements.*" />
+          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders04_IncrementDecrement_Concatenation.C05_Concatenation" />
+    <configuration name="C08_TerseCevirme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C08_TerseCevirme" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders04_IncrementDecrement_Concatenation.*" />
+          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders04_IncrementDecrement_Concatenation.C08_Operators" />
+    <configuration name="C09_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C09_Palindrome" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders04_IncrementDecrement_Concatenation.*" />
+          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16_RakamlarToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders03_DataCasting_WrapperClasses.C16_RakamlarToplami" />
+    <configuration name="C10_FibonacciSerisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C10_FibonacciSerisi" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders03_DataCasting_WrapperClasses.*" />
+          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C03_IfStatements" />
-        <item itemvalue="Application.C08_Operators" />
-        <item itemvalue="Application.C05_Concatenation" />
-        <item itemvalue="Application.C16_RakamlarToplami" />
-        <item itemvalue="Application.C03_DataCastingChar" />
+        <item itemvalue="Application.C10_FibonacciSerisi" />
+        <item itemvalue="Application.C09_Palindrome" />
+        <item itemvalue="Application.C07_YapilanMethodKullanimi" />
+        <item itemvalue="Application.C08_TerseCevirme" />
+        <item itemvalue="Application.C06_HesapMakinesi" />
       </list>
     </recent_temporary>
   </component>
