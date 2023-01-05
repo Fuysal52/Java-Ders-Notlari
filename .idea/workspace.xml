@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C01_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C02_MethodOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C03_MethodOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C04_AsalSayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C05_Faktoryel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C06_HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C07_YapilanMethodKullanimi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C08_TerseCevirme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C09_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders12_MethodOlusturmaVeKullanma/C10_FibonacciSerisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C01_MethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C02_MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C03_MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C04_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C05_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C06_SifreKontrolu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C07_BasitOyun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C10_FibonacciSerisi">
-    <configuration name="C06_HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C06_HesapMakinesi" />
+  <component name="RunManager" selected="Application.C01_MethodCall">
+    <configuration name="C01_MethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders13_MethodOverloading_WhileLoop.C01_MethodCall" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
+          <option name="PATTERN" value="Ders13_MethodOverloading_WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_YapilanMethodKullanimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C07_YapilanMethodKullanimi" />
+    <configuration name="C02_MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders13_MethodOverloading_WhileLoop.C02_MethodOverloading" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
+          <option name="PATTERN" value="Ders13_MethodOverloading_WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_TerseCevirme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C08_TerseCevirme" />
+    <configuration name="C04_WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders13_MethodOverloading_WhileLoop.C04_WhileLoop" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
+          <option name="PATTERN" value="Ders13_MethodOverloading_WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C09_Palindrome" />
+    <configuration name="C05_WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders13_MethodOverloading_WhileLoop.C05_WhileLoop" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
+          <option name="PATTERN" value="Ders13_MethodOverloading_WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_FibonacciSerisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders12_MethodOlusturmaVeKullanma.C10_FibonacciSerisi" />
+    <configuration name="C06_SifreKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders13_MethodOverloading_WhileLoop.C06_SifreKontrolu" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders12_MethodOlusturmaVeKullanma.*" />
+          <option name="PATTERN" value="Ders13_MethodOverloading_WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C10_FibonacciSerisi" />
-        <item itemvalue="Application.C09_Palindrome" />
-        <item itemvalue="Application.C07_YapilanMethodKullanimi" />
-        <item itemvalue="Application.C08_TerseCevirme" />
-        <item itemvalue="Application.C06_HesapMakinesi" />
+        <item itemvalue="Application.C01_MethodCall" />
+        <item itemvalue="Application.C06_SifreKontrolu" />
+        <item itemvalue="Application.C05_WhileLoop" />
+        <item itemvalue="Application.C04_WhileLoop" />
+        <item itemvalue="Application.C02_MethodOverloading" />
       </list>
     </recent_temporary>
   </component>
