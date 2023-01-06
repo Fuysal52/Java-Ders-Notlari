@@ -1,5 +1,5 @@
 
-package Ders14_DoWhileLoop_Schope;
+package Ders14_DoWhileLoop_Scope;
 
 import java.util.Scanner;
 

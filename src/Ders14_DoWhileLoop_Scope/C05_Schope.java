@@ -1,4 +1,4 @@
-package Ders14_DoWhileLoop_Schope;
+package Ders14_DoWhileLoop_Scope;
 
 public class C05_Schope {
 
