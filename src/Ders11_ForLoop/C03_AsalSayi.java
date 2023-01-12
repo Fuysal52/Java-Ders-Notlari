@@ -6,7 +6,7 @@ public class C03_AsalSayi {
         //  input olarak verilen bir tamsayinin
         // asal sayi olup olmadigini yazdirin
 
-        int input= 21;
+        int input= 23;
         String sonuc = "Sayi asal";
 
         for (int i = 2; i <input ; i++) {

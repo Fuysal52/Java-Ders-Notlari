@@ -9,9 +9,10 @@ public class C07_TernaryOperator {
         // Buyuk olmayan sayiyi yazdirin
 
         Scanner scan=new Scanner(System.in);
+        System.out.println("Lutfen iki sayi giriniz");
         double sayi1=scan.nextDouble();
         double sayi2=scan.nextDouble();
 
-        System.out.println(sayi1<sayi2 && sayi1==sayi2?  sayi2 : sayi1);
+        System.out.println(sayi1<sayi2 && sayi1==sayi2 ?  sayi2 : sayi1);
     }
 }

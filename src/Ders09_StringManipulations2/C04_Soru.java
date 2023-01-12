@@ -2,7 +2,7 @@ package Ders09_StringManipulations2;
 
 import java.util.Scanner;
 
-public class C04_endWith {
+public class C04_Soru {
     public static void main(String[] args) {
 
         // Kullanicidan bir mail alin

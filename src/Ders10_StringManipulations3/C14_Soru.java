@@ -17,7 +17,7 @@ public class C14_Soru {
         if (cumle.length()%2==0) {
             System.out.println(cumle.substring(0,cumle.length()/2) +":)"+ cumle.substring(cumle.length()/2,cumle.length()));
         } else {
-            System.out.println(cumle.substring(0, cumle.length() / 2) + ":(" + cumle.substring(cumle.length() / 2 + 1, cumle.length()));
+            System.out.println(cumle.substring(0, cumle.length()/2) + ":(" + cumle.substring(cumle.length()/2+ 1, cumle.length()));
 
         }
     }

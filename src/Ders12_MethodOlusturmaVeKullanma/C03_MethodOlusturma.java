@@ -10,8 +10,7 @@ public class C03_MethodOlusturma {
         faktoryelYazdir(3);
     }
 
-    public static void faktoryelYazdir (
-            int i){
+    public static void faktoryelYazdir (int i){
         int carpim = 1;
 
         for (int j = 1; j <=i ; j++) {

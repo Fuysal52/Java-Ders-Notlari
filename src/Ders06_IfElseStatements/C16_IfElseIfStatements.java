@@ -9,7 +9,7 @@ public class C16_IfElseIfStatements {
         // sayi negatif is "negatif sayi"
         // sayi rakam ise "Girilen sayi rakam"
         // sayi iki  basamakli ise "Girilen sayi iki basamnakli"
-        // sahyi 2 basamaktan buyukse "buyuk sayi"yazdirin
+        // sayi 2 basamaktan buyukse "buyuk sayi"yazdirin
 
         Scanner scan=new Scanner(System.in);
         System.out.println("Lutfen bir tamsayi giriniz");

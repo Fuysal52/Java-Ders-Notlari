@@ -14,10 +14,10 @@ public class C15_Soru {
         input1=input1.replaceAll("\\s", "");
         input2=input2.replaceAll("\\s", "");
 
-        double input1Int = Double.parseDouble(input1);
-        double input2Int = Double.parseDouble(input2);
+        double input1Double = Double.parseDouble(input1);
+        double input2Double = Double.parseDouble(input2);
 
-        System.out.println(input1Int+input2Int + " $ ");
+        System.out.println(input1Double+input2Double + " $ ");
 
     }
 }

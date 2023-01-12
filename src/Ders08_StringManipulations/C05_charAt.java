@@ -12,6 +12,7 @@ public class C05_charAt {
         // charAt() 'den once kullanmalisiniz
 
         System.out.println(str.toUpperCase().charAt(13-4)); // L
+        System.out.println(str.charAt(str.length()-1)); // son karakteri bulma yolu
 
     }
 }

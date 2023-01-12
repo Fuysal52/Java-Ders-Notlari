@@ -12,8 +12,8 @@ public class C05_Concatenation {
 
         System.out.println("girilen "+ a + " ve "+ b + " sayilarinin toplami :" + (a+b));
 
-        System.out.println("sayilarin toplami:"+ a+b); // sayilarin toplami:1020 seklinde yanlis verdi
-                                                      // bunun olmamasi icin parantez yapiyrz (a+b)
+        System.out.println("sayilarin toplami:"+ a+b); // 1020 sayilarin toplami:1020 seklinde yanlis verdi
+        System.out.println("sayilarin toplami:"+ (a+b)); //  30 bunun olmamasi icin parantez yapiyrz (a+b)
 
     }
 }

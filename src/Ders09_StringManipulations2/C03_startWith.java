@@ -17,7 +17,7 @@ public class C03_startWith {
         // 5. index ve sonrasi mutlu ile baslar mi
 
         System.out.println(str.startsWith("mutlu", 5 )); // true
-        System.out.println(str.startsWith("va", 2)); // false
+        System.out.println(str.startsWith("va", 2)); // true
 
     }
 }

@@ -14,8 +14,8 @@ public class C05_IfElseStatements {
         char girilenKarakter = scan.next().charAt(0);
 
         if (girilenKarakter >= 'a' && girilenKarakter <= 'z') {
-            System.out.println((char) (girilenKarakter - 32));
-            System.out.println(Character.toUpperCase(girilenKarakter));
+            System.out.println((char) (girilenKarakter - 32)); // bu sekilde de yapilabilir
+            System.out.println(Character.toUpperCase(girilenKarakter)); // bu sekilde de buyuk harf yazdirilabilir
         } else {
             System.out.println(girilenKarakter);
         }

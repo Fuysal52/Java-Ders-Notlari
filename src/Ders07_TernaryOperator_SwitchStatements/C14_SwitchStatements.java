@@ -15,7 +15,7 @@ public class C14_SwitchStatements {
         System.out.println("Lutfen iki sayi giriniz");
         double sayi1=scan.nextDouble();
         double sayi2=scan.nextDouble();
-        System.out.println("Lutfen istediginiz islemi giriniz");
+        System.out.println("Lutfen istediginiz islemi giriniz\n +, -, *, /");
         char islem=scan.next().charAt(0);
 
 

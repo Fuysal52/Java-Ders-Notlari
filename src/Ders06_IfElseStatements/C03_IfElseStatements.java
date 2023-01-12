@@ -16,9 +16,9 @@ public class C03_IfElseStatements {
 
 
         if (yas >= 65) {
-            System.out.println("Emekli Olabilirsin");
+            System.out.println("Emekli olabilirsin");
         } else {
-            System.out.println("Emekli OLmak Icin Gereken Yil Sayisi:" + kalanYilSayisi);
+            System.out.println("Emekli oLmak icin gereken yil sayisi:" + kalanYilSayisi);
         }
     }
 }

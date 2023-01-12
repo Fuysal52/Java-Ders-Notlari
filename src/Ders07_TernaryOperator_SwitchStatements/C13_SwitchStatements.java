@@ -6,8 +6,8 @@ public class C13_SwitchStatements {
     public static void main(String[] args) {
 
         // Kullanicidan ISTQB kisaltmalarindan bir harf alin
-        // anlamini ogrenmek ikstedigini alin
-        // ve girilan harfin karsiligini yazdirin
+        // anlamini ogrenmek istedigini alin
+        // ve girilen harfin karsiligini yazdirin
         // I: International, S:Software , T:Testing , Q:Qualifications, B:Board
 
         Scanner scan = new Scanner(System.in);

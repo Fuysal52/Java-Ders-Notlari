@@ -8,8 +8,9 @@ public class C07_YapilanMethodKullanimi {
         C04_AsalSayi.asalSayiMi(34); // true
         C05_Faktoryel.faktoryelYazdir(10); // Girilen 10 icin faktoryel : 3628800
         C05_Faktoryel.faktoryelYazdir(16); // Girilen 16 icin faktoryel : 2004189184
-        C06_HesapMakinesi.hesapMakinesi(2,2,'+'); //
-        C08_TerseCevirme.metniTerseCevir("Fatih");
+        System.out.println(C08_TerseCevirme.metniTerseCevir("ali"));//
+        System.out.println( C06_HesapMakinesi.hesapMakinesi(2,2,'*'));
+
 
     }
 }

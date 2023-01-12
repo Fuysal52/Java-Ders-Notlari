@@ -9,7 +9,7 @@ public class C11_NestedIfElseIfStatements {
         System.out.println("Lutfen cinsiyetinizi giriniz");
         String cisiyet = scan.nextLine();
         System.out.println("Lutfen yasinizi giriniz");
-        double yas = scan.nextDouble();
+        int yas = scan.nextInt();
 
         if (cisiyet.equalsIgnoreCase("Kadin")) {
             if (yas < 0 || yas > 90) {                // (... - 0 ) ile ( 90 - ... ) arasindaki yaslari kontrol eder

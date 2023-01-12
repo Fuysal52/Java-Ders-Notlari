@@ -6,6 +6,7 @@ public class C06_DataCasting {
     public static void main(String[] args) {
 
         // Kullanicidan ucgenin kenar uzunluklarini aliniz
+        // ucgenin cevresini hesaplayiniz
         // sonucu int olarak yazdirin
 
         Scanner scan=new Scanner(System.in);

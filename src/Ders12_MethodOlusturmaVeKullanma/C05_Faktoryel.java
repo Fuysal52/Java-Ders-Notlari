@@ -5,7 +5,7 @@ public class C05_Faktoryel {
         // verilen bir sayinin 15'den kucuk bir pozitif tamsayi oldugunu kontrol edin
         // kucukse bir method olusturun, faktoryel degerini yazdirin
 
-        int input = 23;
+        int input = 8;
         if (input > 0 && input < 15) {
             faktoryelYazdir(input);
         } else {

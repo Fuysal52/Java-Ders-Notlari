@@ -8,7 +8,7 @@ public class C08_WrapperClases {
         System.out.println(str.toUpperCase()); // harfleri buyutme ozelligi
 
         String str2= "1234";
-        String str3="1000";
+        String str3= "1000";
 
         System.out.println(str2+str3); // 12341000 ... String bir metinsel ifade oldugu icin bunlari yanyana getiri
         // Bu durumda hazir methotlardan yardim aliriz

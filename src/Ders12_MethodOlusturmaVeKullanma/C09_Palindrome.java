@@ -11,9 +11,9 @@ public class C09_Palindrome {
         String tersStr=C08_TerseCevirme.metniTerseCevir(str);
 
         if (str.equalsIgnoreCase(tersStr)){
-            System.out.println("Verilen metin palindrome");
+            System.out.println("Verilen metin palindromedur");
         } else {
-            System.out.println("Verilen metin palindrome degil");
+            System.out.println("Verilen metin palindrome degildir");
         }
    }
 }

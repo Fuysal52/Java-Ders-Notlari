@@ -11,7 +11,7 @@ public class C01_IfElseStatements {
 
 
         Scanner scan=new Scanner(System.in);
-        System.out.println("Lutfen ucgenin kenarlarini giriniz");
+        System.out.println("Lutfen ucgenin kenarlarini giriniz\nHer kenardan sonra enter'a basiniz");
 
         double kenar1= scan.nextDouble();
         double kenar2= scan.nextDouble();

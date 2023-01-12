@@ -22,5 +22,7 @@ public class C04_equalsIgnoreCase {
         System.out.println(str1.equalsIgnoreCase(str2)); // true
         System.out.println(str1.equalsIgnoreCase(str3)); // true
         System.out.println(str1.equalsIgnoreCase(str3)); // true
+
+
     }
 }

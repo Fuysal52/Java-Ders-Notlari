@@ -9,6 +9,7 @@ public class C02_MethodOlusturma {
         carpYazdir(7.4,4.5); // method double double oldugu icin argument double olmalidir
     }
     public static void carpYazdir (double sayi1, double sayi2) {
+
         System.out.println(sayi1*sayi2);
     }
 }

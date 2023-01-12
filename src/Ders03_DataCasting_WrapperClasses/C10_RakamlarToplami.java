@@ -5,8 +5,10 @@ import java.util.Scanner;
 public class C10_RakamlarToplami {
     public static void main(String[] args) {
 
-        Scanner scan=new Scanner(System.in);
+        // Kullanicidan 4 basamakli bir sayi aliniz
+        // sayinin rakamlar toplamini bulunuz
 
+        Scanner scan=new Scanner(System.in);
         System.out.println("Lutfen 4 basamakli bir sayi giriniz");
         int sayi= scan.nextInt();
 

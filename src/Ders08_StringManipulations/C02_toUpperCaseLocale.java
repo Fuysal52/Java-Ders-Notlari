@@ -12,6 +12,7 @@ public class C02_toUpperCaseLocale {
         System.out.println(str); // java candır
 
         str = "sevgi insani hayata baglar";
-        System.out.println(str.toUpperCase());
+        System.out.println(str.toUpperCase()); // SEVGİ İNSANİ HAYATA BAGLAR === Atama yapilmazsa gecici olarak islem yapar
+        System.out.println(str); // sevgi insani hayata baglar
     }
 }

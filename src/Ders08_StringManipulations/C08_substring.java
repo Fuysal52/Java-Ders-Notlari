@@ -30,7 +30,7 @@ public class C08_substring {
         System.out.println(str.substring(16)); // kap
         System.out.println(str.substring(str.length()-3)); // kap
 
-        // sunstring kullanarak sadece J yazdirin
+        // substring kullanarak sadece J yazdirin
 
         System.out.println(str.substring(0,1)); // J
 

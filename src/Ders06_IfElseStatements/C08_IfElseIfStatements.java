@@ -24,7 +24,7 @@ public class C08_IfElseIfStatements {
             System.out.println("Emekli olman icin " + (65 - yas)+" yil gerekli");
         } else if (cinsiyet=='K' && yas<60) {
             System.out.println("Emekli olman icin " + (60 - yas)+" yil gerekli");
-        } else if (yas<=18 || yas<80) {
+        } else if (yas<=18 || yas>80) {
             System.out.println("Gecersiz yas");
         } else {
             System.out.println("Gecersiz  cinsiyet girisi");

@@ -14,6 +14,6 @@ public class C09_ForLoop {
             sayilarinToplami +=i;
         }
         System.out.println("");
-        System.out.println("Tum sayilarin toplami=" + sayilarinToplami);
+        System.out.println("Tum sayilarin toplami = " + sayilarinToplami);
     }
 }
