@@ -1,0 +1,19 @@
+package Ders16_Arrays;
+
+import java.util.Arrays;
+
+public class C03_Arrays {
+    public static void main(String[] args) {
+
+        // Verilen bir string array'in tum elementlerini yazdirin
+
+        String[] isimler = { "Huseyin", "Yusuf","Mehmet","Akile","Said"};
+
+        System.out.println(Arrays.toString(isimler)); // [Huseyin, Yusuf, Mehmet, Akile, Said]
+
+        for (int i = 0; i < isimler.length ; i++) {
+            System.out.print(isimler[i] + " "); // Huseyin Yusuf Mehmet Akile Said
+
+        }
+    }
+}

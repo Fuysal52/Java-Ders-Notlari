@@ -38,5 +38,6 @@ public class C05_WhileLoop {
             toplam+=sayi;
         }
         System.out.println("Bu kadar sayi yeter. Toplamlari " + toplam + " oldu" );
+
     }
 }
