@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C03_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C05_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C06_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C07_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C08_ArrayeYeniDegerAtama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C09_ArrayeBirElementEkleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C10_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C11_ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders16_Arrays/C12_binarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C02_MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C02_MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C05_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders13_MethodOverloading_WhileLoop/C05_WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,59 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C07_Soru">
-    <configuration name="C03_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C03_Arrays" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders16_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C04_Arrays" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders16_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C05_Soru" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders16_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C06_Soru" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders16_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C12_binarySearch">
     <configuration name="C07_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C07_Soru" />
       <module name="FatihDers" />
@@ -116,13 +61,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C08_ArrayeYeniDegerAtama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C08_ArrayeYeniDegerAtama" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders16_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C09_ArrayeBirElementEkleme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C09_ArrayeBirElementEkleme" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders16_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C11_ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C11_ArraySort" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders16_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C12_binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders16_Arrays.C12_binarySearch" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders16_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C12_binarySearch" />
+        <item itemvalue="Application.C11_ArraySort" />
+        <item itemvalue="Application.C09_ArrayeBirElementEkleme" />
+        <item itemvalue="Application.C08_ArrayeYeniDegerAtama" />
         <item itemvalue="Application.C07_Soru" />
-        <item itemvalue="Application.C06_Soru" />
-        <item itemvalue="Application.C05_Soru" />
-        <item itemvalue="Application.C04_Arrays" />
-        <item itemvalue="Application.C03_Arrays" />
       </list>
     </recent_temporary>
   </component>
