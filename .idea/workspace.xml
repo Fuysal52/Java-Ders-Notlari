@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C01_ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C02_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C03_remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C05_contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C06_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C07_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C08_equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C09_indexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C10_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C11_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C12_Soru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders18_ArrayLists/C04_size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C04_size.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +51,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_size">
-    <configuration name="C01_ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C01_ArrayLists" />
+  <component name="RunManager" selected="Application.C12_Soru">
+    <configuration name="C08_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C08_equals" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C02_remove" />
+    <configuration name="C09_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C09_indexOf" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C03_remove" />
+    <configuration name="C10_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C10_Soru" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C04_size" />
+    <configuration name="C11_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C11_Soru" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_MDA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders17_Arrays.C08_MDA" />
+    <configuration name="C12_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C12_Soru" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders17_Arrays.*" />
+          <option name="PATTERN" value="Ders18_ArrayLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C04_size" />
-        <item itemvalue="Application.C03_remove" />
-        <item itemvalue="Application.C02_remove" />
-        <item itemvalue="Application.C01_ArrayLists" />
-        <item itemvalue="Application.C08_MDA" />
+        <item itemvalue="Application.C12_Soru" />
+        <item itemvalue="Application.C11_Soru" />
+        <item itemvalue="Application.C10_Soru" />
+        <item itemvalue="Application.C09_indexOf" />
+        <item itemvalue="Application.C08_equals" />
       </list>
     </recent_temporary>
   </component>

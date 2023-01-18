@@ -14,10 +14,14 @@ public class C04_size {
         sayilar.add(9);
 
         System.out.println(sayilar); //  [10, 5, 7, 9]
+        System.out.println(sayilar.isEmpty()); // false
 
         System.out.println(sayilar.size()); // 4
         sayilar.clear(); // listedeki tum elementleri siler
         System.out.println(sayilar.size()); // 0
         System.out.println(sayilar); // []
+
+        System.out.println(sayilar.isEmpty()); // true
+
     }
 }
