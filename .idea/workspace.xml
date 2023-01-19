@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C05_contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C06_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C07_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C08_equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C09_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C10_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C11_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C12_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders19_ArraysList_forEachLoop/C01_ArradenListYapma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders19_ArraysList_forEachLoop/C02_ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders19_ArraysList_forEachLoop/C03_ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders19_ArraysList_forEachLoop/C04_Soru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders18_ArrayLists/C04_size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders18_ArrayLists/C04_size.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C12_Soru">
-    <configuration name="C08_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C08_equals" />
+  <component name="RunManager" selected="Application.C04_Soru">
+    <configuration name="C01_ArradenListYapma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders19_ArraysList_forEachLoop.C01_ArradenListYapma" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders18_ArrayLists.*" />
+          <option name="PATTERN" value="Ders19_ArraysList_forEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C09_indexOf" />
+    <configuration name="C02_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders19_ArraysList_forEachLoop.C02_ForEachLoop" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders18_ArrayLists.*" />
+          <option name="PATTERN" value="Ders19_ArraysList_forEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C10_Soru" />
+    <configuration name="C03_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders19_ArraysList_forEachLoop.C03_ForEachLoop" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders18_ArrayLists.*" />
+          <option name="PATTERN" value="Ders19_ArraysList_forEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders18_ArrayLists.C11_Soru" />
+    <configuration name="C04_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders19_ArraysList_forEachLoop.C04_Soru" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders18_ArrayLists.*" />
+          <option name="PATTERN" value="Ders19_ArraysList_forEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_Soru" />
+        <item itemvalue="Application.C03_ForEachLoop" />
+        <item itemvalue="Application.C02_ForEachLoop" />
+        <item itemvalue="Application.C01_ArradenListYapma" />
         <item itemvalue="Application.C12_Soru" />
-        <item itemvalue="Application.C11_Soru" />
-        <item itemvalue="Application.C10_Soru" />
-        <item itemvalue="Application.C09_indexOf" />
-        <item itemvalue="Application.C08_equals" />
       </list>
     </recent_temporary>
   </component>
