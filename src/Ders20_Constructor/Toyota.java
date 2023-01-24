@@ -8,4 +8,8 @@ public class Toyota {
     int km;
     String renk;
 
+    public Toyota() {
+        System.out.println("Toyota class'indaki conctructor calisti");
+    }
+
 }
