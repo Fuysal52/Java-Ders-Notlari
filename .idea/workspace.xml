@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders21_StaticKeyword/C01_StaticBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders21_StaticKeyword/C02_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders21_StaticKeyword/C03_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders21_StaticKeyword/C04_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders21_StaticKeyword/C05_PassByValueCokluElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders21_StaticKeyword/C06_PassByValueCokluElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C01_ImmutableClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C02_ImmutableClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C03_StringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C04_LocalDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C06_PassByValueCokluElement">
-    <configuration name="C01_StaticBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders21_StaticKeyword.C01_StaticBlocks" />
+  <component name="RunManager" selected="Application.C04_LocalDate">
+    <configuration name="C01_ImmutableClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses.C01_ImmutableClasses" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders21_StaticKeyword.*" />
+          <option name="PATTERN" value="Ders22_ImmutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders21_StaticKeyword.C02_PassByValue" />
+    <configuration name="C02_ImmutableClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses.C02_ImmutableClasses" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders21_StaticKeyword.*" />
+          <option name="PATTERN" value="Ders22_ImmutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_PassByValueCokluElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders21_StaticKeyword.C05_PassByValueCokluElement" />
+    <configuration name="C03_StringEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses.C03_StringEquals" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders21_StaticKeyword.*" />
+          <option name="PATTERN" value="Ders22_ImmutableClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_LocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses.C04_LocalDate" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders22_ImmutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders20_Constructor.Rope" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders20_Constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_LocalDate" />
+        <item itemvalue="Application.C03_StringEquals" />
+        <item itemvalue="Application.C02_ImmutableClasses" />
+        <item itemvalue="Application.C01_ImmutableClasses" />
         <item itemvalue="Application.C06_PassByValueCokluElement" />
-        <item itemvalue="Application.C05_PassByValueCokluElement" />
-        <item itemvalue="Application.C02_PassByValue" />
-        <item itemvalue="Application.C01_StaticBlocks" />
-        <item itemvalue="Application.Rope" />
       </list>
     </recent_temporary>
   </component>
