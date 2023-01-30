@@ -1,4 +1,4 @@
-package Ders22_ImmutableClasses;
+package Ders22_ImmutableClasses_DateTime;
 
 import java.util.Arrays;
 

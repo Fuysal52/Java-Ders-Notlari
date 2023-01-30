@@ -1,4 +1,4 @@
-package Ders22_ImmutableClasses;
+package Ders22_ImmutableClasses_DateTime;
 
 public class C02_ImmutableClasses {
     public static void main(String[] args) {
