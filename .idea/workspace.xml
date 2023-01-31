@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C05_LocalTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C06_LocalDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C07_DateTimeFormetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C08_Period.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders23_Varargs_StringBuilder/C01_Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders23_Varargs_StringBuilder/C02_Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders23_Varargs_StringBuilder/C03_Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders23_Varargs_StringBuilder/C04_Varargs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C01_ImmutableClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C01_ImmutableClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C02_ImmutableClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C02_ImmutableClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C03_StringEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C03_StringEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders22_ImmutableClasses/C04_LocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders22_ImmutableClasses_DateTime/C04_LocalDate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C07_DateTimeFormetter">
-    <configuration name="C03_StringEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses_DateTime.C03_StringEquals" />
+  <component name="RunManager" selected="Application.C04_Varargs">
+    <configuration name="C01_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders23_Varargs_StringBuilder.C01_Varargs" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders22_ImmutableClasses_DateTime.*" />
+          <option name="PATTERN" value="Ders23_Varargs_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_LocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses_DateTime.C04_LocalDate" />
+    <configuration name="C02_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders23_Varargs_StringBuilder.C02_Varargs" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders22_ImmutableClasses_DateTime.*" />
+          <option name="PATTERN" value="Ders23_Varargs_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_LocalTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses_DateTime.C05_LocalTime" />
+    <configuration name="C03_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders23_Varargs_StringBuilder.C03_Varargs" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders22_ImmutableClasses_DateTime.*" />
+          <option name="PATTERN" value="Ders23_Varargs_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_LocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses_DateTime.C06_LocalDateTime" />
+    <configuration name="C04_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders23_Varargs_StringBuilder.C04_Varargs" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders22_ImmutableClasses_DateTime.*" />
+          <option name="PATTERN" value="Ders23_Varargs_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_DateTimeFormetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses_DateTime.C07_DateTimeFormetter" />
+    <configuration name="C08_Period" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders22_ImmutableClasses_DateTime.C08_Period" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_DateTimeFormetter" />
-        <item itemvalue="Application.C06_LocalDateTime" />
-        <item itemvalue="Application.C05_LocalTime" />
-        <item itemvalue="Application.C04_LocalDate" />
-        <item itemvalue="Application.C03_StringEquals" />
+        <item itemvalue="Application.C04_Varargs" />
+        <item itemvalue="Application.C03_Varargs" />
+        <item itemvalue="Application.C02_Varargs" />
+        <item itemvalue="Application.C01_Varargs" />
+        <item itemvalue="Application.C08_Period" />
       </list>
     </recent_temporary>
   </component>
