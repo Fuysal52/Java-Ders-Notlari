@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders24_StringBuilder_AccessModifier/C04_AccessModifler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders24_StringBuilder_AccessModifier/C05_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders24_StringBuilder_AccessModifier/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders24_StringBuilder_AccessModifier/EncapsuleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/APersonel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/BDoktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/CCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/DToyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/ECorolla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,26 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_AccessModifler">
-    <configuration name="C01_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders24_StringBuilder_AccessModifier.C01_StringBuilder" />
+  <component name="RunManager" selected="Application.ECorolla">
+    <configuration name="BDoktor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders25_Inheritance.BDoktor" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders24_StringBuilder_AccessModifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders24_StringBuilder_AccessModifier.C02_StringBuilder" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders24_StringBuilder_AccessModifier.*" />
+          <option name="PATTERN" value="Ders25_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ECorolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders25_Inheritance.ECorolla" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders25_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ECorolla" />
+        <item itemvalue="Application.BDoktor" />
         <item itemvalue="Application.C04_AccessModifler" />
         <item itemvalue="Application.D" />
         <item itemvalue="Application.C03_StringBuilder" />
-        <item itemvalue="Application.C02_StringBuilder" />
-        <item itemvalue="Application.C01_StringBuilder" />
       </list>
     </recent_temporary>
   </component>
