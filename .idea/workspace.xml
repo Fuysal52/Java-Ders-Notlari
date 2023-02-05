@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/APersonel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/BDoktor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/CCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/DToyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25_Inheritance/ECorolla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders26_Inheritance/C01_Sinif.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ECorolla">
+  <component name="RunManager" selected="Application.C01_Sinif">
     <configuration name="BDoktor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders25_Inheritance.BDoktor" />
       <module name="FatihDers" />
@@ -61,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders24_StringBuilder_AccessModifier.C03_StringBuilder" />
+    <configuration name="C01_Sinif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders26_Inheritance.C01_Sinif" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders24_StringBuilder_AccessModifier.*" />
+          <option name="PATTERN" value="Ders26_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_Sinif" />
         <item itemvalue="Application.ECorolla" />
         <item itemvalue="Application.BDoktor" />
         <item itemvalue="Application.C04_AccessModifler" />
         <item itemvalue="Application.D" />
-        <item itemvalue="Application.C03_StringBuilder" />
       </list>
     </recent_temporary>
   </component>
