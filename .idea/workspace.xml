@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/AHayvanlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/BKuslar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/CAvciKuslar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/GExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/HExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders26_Inheritance/DToyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26_Inheritance/DToyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders27_Overriding/FChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27_Overriding/FChild.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,33 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CAvciKuslar">
-    <configuration name="BDoktor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders25_Inheritance.BDoktor" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders25_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_Sinif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders26_Inheritance.C01_Sinif" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders26_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HExceptions">
     <configuration name="CAvciKuslar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders27_Overriding.CAvciKuslar" />
       <module name="FatihDers" />
@@ -86,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ECorolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders25_Inheritance.ECorolla" />
+    <configuration name="FChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders27_Overriding.FChild" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders25_Inheritance.*" />
+          <option name="PATTERN" value="Ders27_Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +85,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders27_Overriding.GExceptions" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders27_Overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders27_Overriding.HExceptions" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders27_Overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HExceptions" />
+        <item itemvalue="Application.GExceptions" />
+        <item itemvalue="Application.FChild" />
         <item itemvalue="Application.CAvciKuslar" />
         <item itemvalue="Application.FDizelCorolla" />
-        <item itemvalue="Application.C01_Sinif" />
-        <item itemvalue="Application.ECorolla" />
-        <item itemvalue="Application.BDoktor" />
       </list>
     </recent_temporary>
   </component>
