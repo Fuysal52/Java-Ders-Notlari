@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders26_Inheritance/DToyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders26_Inheritance/ECorolla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders26_Inheritance/FDizelCorolla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/AHayvanlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/BKuslar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders27_Overriding/CAvciKuslar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders26_Inheritance/DToyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26_Inheritance/DToyota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FDizelCorolla">
+  <component name="RunManager" selected="Application.CAvciKuslar">
     <configuration name="BDoktor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders25_Inheritance.BDoktor" />
       <module name="FatihDers" />
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_AccessModifler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders24_StringBuilder_AccessModifier.C04_AccessModifler" />
+    <configuration name="CAvciKuslar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders27_Overriding.CAvciKuslar" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders24_StringBuilder_AccessModifier.*" />
+          <option name="PATTERN" value="Ders27_Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CAvciKuslar" />
         <item itemvalue="Application.FDizelCorolla" />
         <item itemvalue="Application.C01_Sinif" />
         <item itemvalue="Application.ECorolla" />
         <item itemvalue="Application.BDoktor" />
-        <item itemvalue="Application.C04_AccessModifler" />
       </list>
     </recent_temporary>
   </component>

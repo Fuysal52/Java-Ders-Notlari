@@ -11,7 +11,6 @@ public class DToyota {
     o class'da yoksa parent class'lara bakariz. ve ilk buldugumuz degeri atama yapariz.
     data turu olan class ve parent lerde yoksa CTE olur
 
-
      */
 
     String marka = "Toyota";
