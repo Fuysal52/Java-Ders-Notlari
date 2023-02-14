@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C01_TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C02_TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C03_TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C04_CheckedExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C05_MultibleExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C06_MultibleCheckedExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C07_ExceptionsTurleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C08_IllegalArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/metin.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders28_Exceptions/C03_TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C03_TryCatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +49,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C03_TryCatch">
-    <configuration name="C01_TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C01_TryCatch" />
+  <component name="RunManager" selected="Application.C08_IllegalArgumentException">
+    <configuration name="C04_CheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C04_CheckedExceptions" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C02_TryCatch" />
+    <configuration name="C05_MultibleExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C05_MultibleExceptions" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C03_TryCatch" />
+    <configuration name="C06_MultibleCheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C06_MultibleCheckedExceptions" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders27_Overriding.GExceptions" />
+    <configuration name="C07_ExceptionsTurleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C07_ExceptionsTurleri" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders27_Overriding.*" />
+          <option name="PATTERN" value="Ders28_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders27_Overriding.HExceptions" />
+    <configuration name="C08_IllegalArgumentException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C08_IllegalArgumentException" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders27_Overriding.*" />
+          <option name="PATTERN" value="Ders28_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C03_TryCatch" />
-        <item itemvalue="Application.C02_TryCatch" />
-        <item itemvalue="Application.C01_TryCatch" />
-        <item itemvalue="Application.HExceptions" />
-        <item itemvalue="Application.GExceptions" />
+        <item itemvalue="Application.C08_IllegalArgumentException" />
+        <item itemvalue="Application.C07_ExceptionsTurleri" />
+        <item itemvalue="Application.C06_MultibleCheckedExceptions" />
+        <item itemvalue="Application.C05_MultibleExceptions" />
+        <item itemvalue="Application.C04_CheckedExceptions" />
       </list>
     </recent_temporary>
   </component>

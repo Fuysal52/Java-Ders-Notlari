@@ -19,12 +19,12 @@ public class C03_TryCatch {
         while (sayiAdedi<10000){
              try {
 
-
-                System.out.println("Toplamak icin tamsayi giriniz" +
+                 System.out.println("Toplamak icin tamsayi giriniz" +
                                    "\nBitirmek icin Q'ya basiniz");
-                girilenSayi= scan.nextInt();
-                sayilarToplami+=girilenSayi;
-                sayiAdedi++;
+
+                 girilenSayi= scan.nextInt();
+                 sayilarToplami+=girilenSayi;
+                 sayiAdedi++;
 
         } catch (InputMismatchException e) {
 
