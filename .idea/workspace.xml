@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C04_CheckedExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C05_MultibleExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C06_MultibleCheckedExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C07_ExceptionsTurleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C08_IllegalArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/metin.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders28_Exceptions/C03_TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders28_Exceptions/C03_TryCatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
