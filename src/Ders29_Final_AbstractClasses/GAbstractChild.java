@@ -1,4 +1,4 @@
-package Ders29_Final_AbstractAclasses;
+package Ders29_Final_AbstractClasses;
 
 public abstract class GAbstractChild extends DParent {
 
