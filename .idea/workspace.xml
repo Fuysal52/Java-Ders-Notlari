@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/I01_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/I02_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/M01_ChildOfInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/M02_ChildOfInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/N01_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/N02_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/N03_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C01_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C02_LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders29_Final_AbstractAclasses/C01_Final_Finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders29_Final_AbstractClasses/C01_Final_Finally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders29_Final_AbstractAclasses/DParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders29_Final_AbstractClasses/DParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders29_Final_AbstractAclasses/EChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders29_Final_AbstractClasses/EChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders29_Final_AbstractAclasses/FChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders29_Final_AbstractClasses/FChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders29_Final_AbstractAclasses/GAbstractChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders29_Final_AbstractClasses/GAbstractChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders29_Final_AbstractAclasses/HConcreteGrandChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders29_Final_AbstractClasses/HConcreteGrandChild.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,52 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.M01_ChildOfInterface">
-    <configuration name="C06_MultibleCheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C06_MultibleCheckedExceptions" />
+  <component name="RunManager" selected="Application.C02_LinkedList">
+    <configuration name="C02_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C02_LinkedList" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders28_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07_ExceptionsTurleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C07_ExceptionsTurleri" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders28_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C08_IllegalArgumentException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders28_Exceptions.C08_IllegalArgumentException" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders28_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders29_Final_AbstractClasses.EChild" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders29_Final_AbstractClasses.*" />
+          <option name="PATTERN" value="Ders31_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +75,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="N01_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders30_Interfaces_Iterator.N01_Iterator" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders30_Interfaces_Iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N02_ListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders30_Interfaces_Iterator.N02_ListIterator" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders30_Interfaces_Iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N03_ListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders30_Interfaces_Iterator.N03_ListIterator" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders30_Interfaces_Iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_LinkedList" />
+        <item itemvalue="Application.N03_ListIterator" />
+        <item itemvalue="Application.N02_ListIterator" />
+        <item itemvalue="Application.N01_Iterator" />
         <item itemvalue="Application.M01_ChildOfInterface" />
-        <item itemvalue="Application.EChild" />
-        <item itemvalue="Application.C08_IllegalArgumentException" />
-        <item itemvalue="Application.C07_ExceptionsTurleri" />
-        <item itemvalue="Application.C06_MultibleCheckedExceptions" />
       </list>
     </recent_temporary>
   </component>
