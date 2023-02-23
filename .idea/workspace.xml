@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/N01_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/N02_ListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders30_Interfaces_Iterator/N03_ListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C01_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C02_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C03_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C04_Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C05_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C06_ArraydekiTekrarlardanKurtulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C02_LinkedList">
+  <component name="RunManager" selected="Application.C06_ArraydekiTekrarlardanKurtulma">
     <configuration name="C02_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C02_LinkedList" />
       <module name="FatihDers" />
@@ -62,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M01_ChildOfInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders30_Interfaces_Iterator.M01_ChildOfInterface" />
+    <configuration name="C03_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C03_Queue" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders30_Interfaces_Iterator.*" />
+          <option name="PATTERN" value="Ders31_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N01_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders30_Interfaces_Iterator.N01_Iterator" />
+    <configuration name="C04_Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C04_Deque" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders30_Interfaces_Iterator.*" />
+          <option name="PATTERN" value="Ders31_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N02_ListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders30_Interfaces_Iterator.N02_ListIterator" />
+    <configuration name="C05_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C05_Set" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders30_Interfaces_Iterator.*" />
+          <option name="PATTERN" value="Ders31_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N03_ListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders30_Interfaces_Iterator.N03_ListIterator" />
+    <configuration name="C06_ArraydekiTekrarlardanKurtulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C06_ArraydekiTekrarlardanKurtulma" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders30_Interfaces_Iterator.*" />
+          <option name="PATTERN" value="Ders31_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06_ArraydekiTekrarlardanKurtulma" />
+        <item itemvalue="Application.C05_Set" />
+        <item itemvalue="Application.C04_Deque" />
+        <item itemvalue="Application.C03_Queue" />
         <item itemvalue="Application.C02_LinkedList" />
-        <item itemvalue="Application.N03_ListIterator" />
-        <item itemvalue="Application.N02_ListIterator" />
-        <item itemvalue="Application.N01_Iterator" />
-        <item itemvalue="Application.M01_ChildOfInterface" />
       </list>
     </recent_temporary>
   </component>
