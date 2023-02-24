@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C03_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C04_Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C05_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders31_Collections/C06_ArraydekiTekrarlardanKurtulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders32_CollectionsSets_Maps/C01_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders32_CollectionsSets_Maps/C02_HashSetMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders32_CollectionsSets_Maps/C03_HastSet_TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders32_CollectionsSets_Maps/C04_TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders32_CollectionsSets_Maps/C05_Maps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C06_ArraydekiTekrarlardanKurtulma">
-    <configuration name="C02_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C02_LinkedList" />
+  <component name="RunManager" selected="Application.C05_Maps">
+    <configuration name="C01_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders32_CollectionsSets_Maps.C01_Set" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders31_Collections.*" />
+          <option name="PATTERN" value="Ders32_CollectionsSets_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C03_Queue" />
+    <configuration name="C02_HashSetMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders32_CollectionsSets_Maps.C02_HashSetMethodlari" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders31_Collections.*" />
+          <option name="PATTERN" value="Ders32_CollectionsSets_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C04_Deque" />
+    <configuration name="C03_HastSet_TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders32_CollectionsSets_Maps.C03_HastSet_TreeSet" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders31_Collections.*" />
+          <option name="PATTERN" value="Ders32_CollectionsSets_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C05_Set" />
+    <configuration name="C04_TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders32_CollectionsSets_Maps.C04_TreeSet" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders31_Collections.*" />
+          <option name="PATTERN" value="Ders32_CollectionsSets_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_ArraydekiTekrarlardanKurtulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders31_Collections.C06_ArraydekiTekrarlardanKurtulma" />
+    <configuration name="C05_Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders32_CollectionsSets_Maps.C05_Maps" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders31_Collections.*" />
+          <option name="PATTERN" value="Ders32_CollectionsSets_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_ArraydekiTekrarlardanKurtulma" />
-        <item itemvalue="Application.C05_Set" />
-        <item itemvalue="Application.C04_Deque" />
-        <item itemvalue="Application.C03_Queue" />
-        <item itemvalue="Application.C02_LinkedList" />
+        <item itemvalue="Application.C05_Maps" />
+        <item itemvalue="Application.C04_TreeSet" />
+        <item itemvalue="Application.C03_HastSet_TreeSet" />
+        <item itemvalue="Application.C02_HashSetMethodlari" />
+        <item itemvalue="Application.C01_Set" />
       </list>
     </recent_temporary>
   </component>
