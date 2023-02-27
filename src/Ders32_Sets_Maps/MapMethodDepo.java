@@ -3,6 +3,7 @@ package Ders32_Sets_Maps;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
 
 public class MapMethodDepo {
 
@@ -75,7 +76,7 @@ public class MapMethodDepo {
         }
     }
 
-    public static void sinifListesiYazdirma(Map<Integer, String> ogrenciMap, String sinif, String sube) {
+    public static void subeListesiYazdirma(Map<Integer, String> ogrenciMap, String sinif, String sube) {
 
         Collection<String> valueCollection = ogrenciMap.values();
 
@@ -98,7 +99,7 @@ public class MapMethodDepo {
 
         String ogrenciValue = ogrenciMap.get(okulNo);   // Ayse-Can-10-H-MF
 
-        String[] valueArr = ogrenciValue.split("- "); // [Ayse, Can, 10, H, MF]
+        String[] valueArr = ogrenciValue.split("-"); // [Ayse, Can, 10, H, MF]
 
         // 2- SUBE ISMINI GUNCELLEYELIM
 
@@ -114,5 +115,56 @@ public class MapMethodDepo {
 
         return ogrenciMap;
 
+    }
+
+    public static void sinifListesiYazdirma(Map<Integer, String> ogrenciMap, String sinif) {
+
+        System.out.println("No isim soyisim bolum");
+        System.out.println("======================");
+
+        Set<Map.Entry<Integer,String>> entrySeti =ogrenciMap.entrySet();
+
+        for (Map.Entry<Integer,String> eachEntry:entrySeti
+             ) {
+            // 1- entry den value yu alalim
+            String entryValue = eachEntry.getValue();
+
+            // 2- bu value'yu parcalayalim ve bir array e store edelim
+
+            String[] valueArr = entryValue.split("-");
+
+            // sinif bilgisini kontrol edip
+            // istenen sinif ile ayni ise, istenen bilgileri yazdiralim
+
+            if (valueArr[2].equalsIgnoreCase(sinif)){
+
+                System.out.println(eachEntry.getKey() + " " +
+                                   valueArr[0] + " " + valueArr[1] + " "+
+                                    valueArr[4]);
+            }
+        }
+    }
+
+    public static void bolumListesiOlusturma(Map<Integer, String> ogrenciMap, String bolum) {
+
+        System.out.println("No isim soyisim sinif");
+        System.out.println("=====================");
+
+
+        Set<Map.Entry<Integer,String>> entrySet = ogrenciMap.entrySet();
+
+        for (Map.Entry<Integer,String> eachEntry:entrySet
+             ) {
+            String entryValue = eachEntry.getValue();
+
+            String[] entryValueArr = entryValue.split("-");
+
+            if (entryValueArr[4].equalsIgnoreCase(bolum)){
+
+                System.out.println(eachEntry.getKey() + " " + entryValueArr[0]+ " " +
+                                   entryValueArr[1] + " " + entryValueArr[2]);
+
+            }
+        }
     }
 }
