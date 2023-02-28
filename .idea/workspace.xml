@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd8f50-ccf3-49e8-a428-310c552689eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C01_CumledeHarfSayilariniBulma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C02_EntrySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C03_SinifListesiYazdirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C04_BolumListesiYazdirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C05_SoyisimleriBuyukHarfYapma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C06_SiniflariArtirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C07_SinifaGoreSiraliListeYazdir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders33_Maps/C08_IsimSoyisimSiraliListe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders32_Sets_Maps/C08_SubeListesiOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders32_Sets_Maps/C08_SubeListesiOlusturma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ders32_Sets_Maps/MapMethodDepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders32_Sets_Maps/MapMethodDepo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,46 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_BolumListesiYazdirma">
-    <configuration name="C01_CumledeHarfSayilariniBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C01_CumledeHarfSayilariniBulma" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders33_Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_EntrySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C02_EntrySet" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders33_Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_SinifListesiYazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C03_SinifListesiYazdirma" />
-      <module name="FatihDers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders33_Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C08_IsimSoyisimSiraliListe">
     <configuration name="C04_BolumListesiYazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C04_BolumListesiYazdirma" />
       <module name="FatihDers" />
@@ -102,12 +62,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_NumaraIleSubeGuncelleme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders32_Sets_Maps.C09_NumaraIleSubeGuncelleme" />
+    <configuration name="C05_SoyisimleriBuyukHarfYapma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C05_SoyisimleriBuyukHarfYapma" />
       <module name="FatihDers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders32_Sets_Maps.*" />
+          <option name="PATTERN" value="Ders33_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_SiniflariArtirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C06_SiniflariArtirma" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders33_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_SinifaGoreSiraliListeYazdir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C07_SinifaGoreSiraliListeYazdir" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders33_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_IsimSoyisimSiraliListe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders33_Maps.C08_IsimSoyisimSiraliListe" />
+      <module name="FatihDers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders33_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C08_IsimSoyisimSiraliListe" />
+        <item itemvalue="Application.C07_SinifaGoreSiraliListeYazdir" />
+        <item itemvalue="Application.C06_SiniflariArtirma" />
+        <item itemvalue="Application.C05_SoyisimleriBuyukHarfYapma" />
         <item itemvalue="Application.C04_BolumListesiYazdirma" />
-        <item itemvalue="Application.C03_SinifListesiYazdirma" />
-        <item itemvalue="Application.C02_EntrySet" />
-        <item itemvalue="Application.C01_CumledeHarfSayilariniBulma" />
-        <item itemvalue="Application.C09_NumaraIleSubeGuncelleme" />
       </list>
     </recent_temporary>
   </component>

@@ -1,9 +1,6 @@
 package Ders32_Sets_Maps;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class MapMethodDepo {
 
@@ -165,6 +162,132 @@ public class MapMethodDepo {
                                    entryValueArr[1] + " " + entryValueArr[2]);
 
             }
+        }
+    }
+
+    public static Map<Integer, String> soyisimleriBuyukHarfYap(Map<Integer, String> ogrenciMap) {
+        // soyisimleri buyuk harf yapalim
+        // 1- entrySet olusturalim
+
+        Set<Map.Entry<Integer,String>> entrySeti = ogrenciMap.entrySet();
+
+        // 2 - foreach ile her bir entry i elden gecirip soyisimleri buyuk harf yapalim
+
+        for (Map.Entry<Integer,String> eachEntry:entrySeti ) {
+
+            // 3- entyr'den value'yu alalim
+            String entryValue = eachEntry.getValue();
+            // 4- soyisim bilgisine ulasip degistirebilmek icin parcala
+            String[] entryValueArr = entryValue.split("-");
+
+            // 5-soyisim buyuk harf yapma
+            entryValueArr[1]=entryValueArr[1].toUpperCase();
+
+            // 6- degisikligi yaptiktan sonra birlestirmeler yapip map'i update yapmaliyiz
+
+            // 7- setValue() kullanarak value'yu yeni haline update edelim
+
+            eachEntry.setValue(entryValueArr[0]+"-"+
+                               entryValueArr[1]+"-"+
+                               entryValueArr[2]+"-"+
+                               entryValueArr[3]+"-"+
+                               entryValueArr[4]);
+        }
+        return ogrenciMap;
+    }
+
+    public static void tumListeYazdir(Map<Integer,String> ogrenciMap) {
+        Set<Map.Entry<Integer,String>> ogrenciEntrySet = ogrenciMap.entrySet();
+
+        System.out.println("No   Ogrenci Bilgileri");
+        System.out.println("======================");
+
+        for (Map.Entry<Integer,String> eachtEntry:ogrenciEntrySet
+        ) {
+            System.out.println(eachtEntry);
+        }
+    }
+
+    public static Map<Integer, String> siniflariArtir(Map<Integer, String> ogrenciMap) {
+
+        Set<Map.Entry<Integer,String>> entrySeti = ogrenciMap.entrySet();
+
+        for (Map.Entry<Integer,String> eachEntry :entrySeti) {
+
+            String entryValue = eachEntry.getValue();
+
+            String[] entryValueArr = entryValue.split("-");
+
+            int sinifInt = Integer.parseInt(entryValueArr[2]);
+
+            if (sinifInt == 12) {
+
+                entryValueArr[2] = "Mezun";
+            } else {
+                entryValueArr[2] = sinifInt + 1 + "";
+            }
+            eachEntry.setValue(entryValueArr[0] + "-" +
+                               entryValueArr[1] + "-" +
+                               entryValueArr[2] + "-" +
+                               entryValueArr[3] + "-" +
+                               entryValueArr[4]);
+        }
+        return ogrenciMap;
+    }
+
+    public static void sinifSiraliListeYazdir(Map<Integer, String> ogrenciMap) {
+
+        Set<Map.Entry<Integer,String>> entrySeti = ogrenciMap.entrySet();
+        Set<String> siraliOgrenciSeti = new TreeSet<>();
+
+        for (Map.Entry<Integer,String> eachEntry :entrySeti) {
+
+            String entryValue = eachEntry.getValue();
+
+            String[] entryValueArr = entryValue.split("-");
+
+            // Entry'den istenen bilgileri alip yeni bir String olusturacagiz
+            // ve bu string 'leri sirali olarak yazdiracagz
+
+            String istenenFormattakiBilgi = entryValueArr[2]+ " " +
+                                            entryValueArr[3]+ " " +
+                                            entryValueArr[0]+ " " +
+                                            entryValueArr[1]+ " " +
+                                            eachEntry.getKey();
+
+            siraliOgrenciSeti.add(istenenFormattakiBilgi);
+        }
+        System.out.println("Sinif sube isim soyisim no");
+        System.out.println("==========================");
+
+        for (String each:siraliOgrenciSeti) {
+            System.out.println(each);
+        }
+    }
+
+    public static void isimSoyisimSiraliListeYazdir(Map<Integer, String> ogrenciMap) {
+
+        Set<Map.Entry<Integer,String>> entrySeti = ogrenciMap.entrySet();
+        Set <String> isimSoyisimSiraliSet = new TreeSet<>();
+
+        for (Map.Entry<Integer,String>eachEntry:entrySeti) {
+
+            String value = eachEntry.getValue();
+
+            String[] valueArr = value.split("-");
+
+            String istenenFormattakiBilgi = valueArr[0]+" " + valueArr[1]+" " +
+                                            eachEntry.getKey() + " " +
+                                            valueArr[2]+" " +valueArr[3]+" " +valueArr[4];
+
+            isimSoyisimSiraliSet.add(istenenFormattakiBilgi);
+        }
+        System.out.println("Isim soyisim no sinif sube bolum");
+        System.out.println("================================");
+
+        for (String each:isimSoyisimSiraliSet) {
+
+            System.out.println(each);
         }
     }
 }
