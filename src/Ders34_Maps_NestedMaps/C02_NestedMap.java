@@ -51,7 +51,8 @@ public class C02_NestedMap {
         // ama biz onun map oldugunu biliyoruz.
         // casting yapabiliriz
 
-        System.out.println(((Map) bookingMap.get("bookingdates")).get("checkin")); //
+        System.out.println(((Map) bookingMap.get("bookingdates")).get("checkin"));
+
 
     }
 }
